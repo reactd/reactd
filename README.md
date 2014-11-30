@@ -29,9 +29,10 @@ Reacted is a fully [isomorphic JS][airbnb-isomorphic] framework built on top of 
 
 # Todo
 
-Explain architecture and how it fits in current stack
-List problems that need to be solved to a fully isomorphic app
-For each problem, write about the different solutions 
+- Describe the spirit of the project and its intended scope
+- Explain architecture and how it fits in current stack
+- List problems that need to be solved to a fully isomorphic app
+- For each problem, write about the different solutions 
 
 
 # License
@@ -39,6 +40,7 @@ For each problem, write about the different solutions
 Copyright (c) 2014 Julien Nakache
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
+
 
 [airbnb-isomorphic]:http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
 [react]:http://facebook.github.io/react/
